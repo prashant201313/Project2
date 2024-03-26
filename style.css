@@ -114,20 +114,12 @@ main{
 }
 
 #symbol{
-    position: sticky; 
-    width: 4.5vw;
-    top: 1em;
+    position: sticky;
+    top: 7.5em;
+    margin-left: -4em;
     z-index: 1000;
     float: right;
-    margin-top: 5em;
-}
-
-#symbol img{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
+    margin-top: 11em;
 }
 
 .boxes{
