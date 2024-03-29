@@ -98,6 +98,7 @@ main{
     width: 23vw;
     height: 56vh;
     box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.44);
+    border-radius: 14px;
 }
 
 .message{
